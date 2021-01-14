@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  author: MyString
+  status: MyString
+  date_borrowed: 2020-09-24
+  date_returned: 2020-09-24
+
+two:
+  title: MyString
+  author: MyString
+  status: MyString
+  date_borrowed: 2020-09-24
+  date_returned: 2020-09-24
